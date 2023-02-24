@@ -17,3 +17,5 @@ Then run:
 chmod +x create_panel_vcf.sh
 ./create_panel_vcf.sh
 ```
+
+The resulting pangenie-compatible pangenome in vcf format can be found at [this Zenodo repository](https://zenodo.org/record/7672153#.Y_gsAR_MJPY).
